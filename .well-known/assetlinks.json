@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.starbucks_prework_flutter",
+            "sha256_cert_fingerprints": [
+                "F3:F3:69:61:D1:3E:54:A4:85:27:18:60:33:B3:1A:F9:3A:69:22:C9:D5:6B:E8:D9:E5:72:6E:7D:8E:93:51:00"
+            ]
+        }
+    }
+]
